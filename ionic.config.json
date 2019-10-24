@@ -1,5 +1,7 @@
 {
   "name": "Viva_Rutas",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
